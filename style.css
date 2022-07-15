@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Releway', sans-serif;
+    background-color: rgb(129, 225, 65);
+    scroll-behavior: smooth;
+   
+}
+
+   
+   
+:root {
+    --bg-color: #ebebeb;
+    --input-placeholder: #d4d4d4;
+    --input-bg: #efefef;
+    --texto-destaque: #FFFF;
+    --azul-destaque: #2a7ae4;
+    --bg-contato: #Eaf2fd;
+}
+
+
+.titulo{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex-direction: column-reverse;
+    color:#2a7ae4;
+    font-size: 50px;
+}
+
+div{
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+
+
+}
+.cavas{
+    display: flex;
+    align-items: center;
+}
