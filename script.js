@@ -1,8 +1,19 @@
 
 
 
-const palavras = [ "BANANA" , " CAJU ","MANGA","MORANGO","KIWI" ,"TAMARINDO"];
 
+
+
+
+
+
+
+
+
+
+
+const palavras = [ "BANANA" , " CAJU ","MANGA","MORANGO","KIWI" ,"TAMARINDO"];
+var desenhaLosangulo= "";
 var quantidadeErros = 0;
 var acertos = 0;
 var tentativas = " ";
